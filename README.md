@@ -1,2 +1,3 @@
-# callbacks-and-promises-review
- Reviewing the differences between callbacks and promises
+# callbacks-and-promise
+ 
+These problems cover working with callbacks and promises. 
